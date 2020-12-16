@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Release in 2020:
-- 🔭 [KapMod](https://github.com/ilovejs/KapMod), video capture app by Electron 
+- 🔭 [KapMod](https://github.com/ilovejs/KapMod), Cross Platform Desktop App: for video capture using Electron 
 
 
 <!--
