@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Release in 2020:
+- 🔭 [KapMod](https://github.com/ilovejs/KapMod), video capture app by Electron 
+
+
 <!--
 **ilovejs/ilovejs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
