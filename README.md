@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Release in 2020:
-- 🔭 [KapMod](https://github.com/ilovejs/KapMod), Cross Platform Desktop App: for video capture using Electron 
+- 🔭 [KapMod](https://github.com/ilovejs/KapMod), is a low-CPU, Video Capturing Tool based on Electron. It's quicker and lighter than Screenflow, Snagit, Movavi
 
 
 <!--
