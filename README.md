@@ -12,6 +12,10 @@ Releases:
 - [Dagg](https://app.daggtrade.com/) Is a trading tool for DEX on Solana blockchain. Demo for Solana hackerthon.
 - [React Ts Parcel Template](https://github.com/ilovejs/react-ts-parcel) Minimal setup for Parcel bundler 0 config style.
 
+DOJO
+- [Go design pattern](https://github.com/ilovejs/golang-design-pattern)
+- [Go test, script pattern? or stuff](https://github.com/ilovejs/)
+
 <!--
 **ilovejs/ilovejs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
