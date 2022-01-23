@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I've been building React, Golang, Mobile app in day time professionally.
+I've been building React, Golang, Mobile app in day time
 
-At night, I work on interesting project.
+My projects...
 
 Releases:
 
@@ -12,7 +12,7 @@ Releases:
 - [Dagg](https://app.daggtrade.com/) Is a trading tool for DEX on Solana blockchain. Demo for Solana hackerthon.
 - [React Ts Parcel Template](https://github.com/ilovejs/react-ts-parcel) Minimal setup for Parcel bundler 0 config style.
 
-DOJO
+DOJO:
 - [Go Design Pattern](https://github.com/ilovejs/golang-design-pattern)
 - [Go Testing and Scripting Pattern](https://github.com/ilovejs/mock-the-fck)
 
