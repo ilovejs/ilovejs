@@ -13,8 +13,8 @@ Releases:
 - [React Ts Parcel Template](https://github.com/ilovejs/react-ts-parcel) Minimal setup for Parcel bundler 0 config style.
 
 DOJO
-- [Go design pattern](https://github.com/ilovejs/golang-design-pattern)
-- [Go test, script pattern? or stuff](https://github.com/ilovejs/)
+- [Go Design Pattern](https://github.com/ilovejs/golang-design-pattern)
+- [Go Testing and Scripting Pattern](https://github.com/ilovejs/mock-the-fck)
 
 <!--
 **ilovejs/ilovejs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
