@@ -1,9 +1,3 @@
-### Hi there 👋
-
-I've been building React, Golang, Mobile app in day time
-
-My projects...
-
 ## 2023
 
 [podcast-dl](https://github.com/ilovejs/podcast-rss-downloader)
