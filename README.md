@@ -1,6 +1,6 @@
 ## Go
 - 🤔 [AppUtils](https://github.com/HelloSundayMorning/apputils) Go Microservice Library: GraphQL, k8s, queue, http, x-ray tracing, saga manager etc.
-- ✨ Go Design Pattern](https://github.com/ilovejs/golang-design-pattern)
+- ✨ [Go Design Pattern](https://github.com/ilovejs/golang-design-pattern)
 - 🌱 [Go Testing and Scripting Pattern](https://github.com/ilovejs/mock-the-fck)
 - 📫 [Go Dependency Injection](https://github.com/ilovejs/go-dependency-injection-demo)
 
