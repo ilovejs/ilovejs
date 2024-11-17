@@ -9,6 +9,9 @@
 - [edx-dl](https://github.com/ilovejs/edx-dl-2022) working version in 2022.
 
 ## JS
+- NextJS form with s3 presign-url, email notification with Resend. Zod validation. Large file upload display progress.
+    [snapshot](./img/forteture-referral-form.png)
+
 - [KapMod](https://github.com/ilovejs/KapMod), is a low-CPU, Video Capturing Tool based on Electron. It's quicker and lighter than Screenflow, Snagit, Movavi
 - 🔭[Uniswap v1 updates](https://github.com/ilovejs/uniswap-v1-mz) I've updated v1 contracts to solve common pains by old Vyper version. v2 now !
 - 🔭[Dagg](https://app.daggtrade.com/) Is a trading tool for DEX on Solana blockchain. Demo for Solana hackerthon.
