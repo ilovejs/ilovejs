@@ -1,3 +1,8 @@
+## Vibe Code Radar
+出海用户洞察，最新AI项目横向类比集合站
+https://vercel-growh-discovery.zhuangdeyouxiang.workers.dev
+
+
 ## Go
 - 🤔 [AppUtils](https://github.com/HelloSundayMorning/apputils) Go Microservice Library: GraphQL, k8s, queue, http, x-ray tracing, saga manager etc.
 - ✨ [Go Design Pattern](https://github.com/ilovejs/golang-design-pattern)
